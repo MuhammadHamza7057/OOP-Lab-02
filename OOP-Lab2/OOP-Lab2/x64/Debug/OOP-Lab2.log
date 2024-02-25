@@ -1,0 +1,10 @@
+﻿  Animal1.cpp
+  Bird1.cpp
+  Elephant1.cpp
+  Lion1.cpp
+  Main1.cpp
+  Monkey1.cpp
+  OOP-Lab02.cpp
+  Generating Code...
+E:\Assignment2\OOP-Lab2\OOP-Lab2\OOP-Lab02.cpp(26,17): warning C4101: 'animalPtr': unreferenced local variable
+  OOP-Lab2.vcxproj -> E:\Assignment2\OOP-Lab2\x64\Debug\OOP-Lab2.exe
